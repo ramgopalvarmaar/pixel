@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Layouts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bs-switch-to-pixel-desktop" transform="translate(-577.000000, -535.000000)">
+            <g id="p1---header-eyebrow-full-bleed-desktop" transform="translate(24.000000, 138.000000)">
+                <g id="Text" transform="translate(480.000000, 276.000000)">
+                    <g id="Group-2" transform="translate(73.000000, 121.000000)">
+                        <g id="UI/button/accordion/expand/desktop/white">
+                            <g>
+                                <circle id="Oval" stroke="#FFFFFF" stroke-width="1.60000002" cx="12" cy="12" r="11.2"></circle>
+                                <polygon id="Rectangle-3" fill="#FFFFFF" points="12.8 17.4 11.2 17.4 11.2 5.6 12.8 5.6"></polygon>
+                                <polyline id="Rectangle-2" stroke="#FFFFFF" stroke-width="1.6" transform="translate(11.985281, 10.985281) rotate(-315.000000) translate(-11.985281, -10.985281) " points="16.4852814 6.48528137 16.4852814 15.4852814 7.48528137 15.4852814"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="8px" viewBox="0 0 10 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>outline-done-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="outline-done-24px" transform="translate(0.000000, -1.000000)">
+            <polygon id="Shape" points="0 0 10 0 10 10 0 10"></polygon>
+            <polygon id="Shape" fill="#4285F4" fill-rule="nonzero" points="3.33333333 7.33333333 1 5 0.222222222 5.77777778 3.33333333 8.88888889 10 2.22222222 9.22222222 1.44444444"></polygon>
+        </g>
+    </g>
+</svg>
